@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PK_Job</string>
+    <string name="large">Large</string>
+    <string name="small">Small</string>
+    <string name="string_small" />
+    <string name="string_string_small" />
+    <string name="smaller">Small</string>
+    <string name="enter_the_length">Enter The Length</string>
+    <string name="area">Area</string>
+    <string name="weight">Weight</string>
+</resources>
